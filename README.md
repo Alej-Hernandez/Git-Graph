@@ -2,4 +2,5 @@
 
 Practice Assignment
 Course: CSCI 3323 - Spring 2023<br>
-Assignment: Git-Graph
+Assignment: Git-Graph<br>
+Name: Alejandra Hernandez
